@@ -27,7 +27,7 @@ Etapa 3:
 
 
 
-## ConclusÃ£o
+## Conclusão
 A implementação de ferramentas na empresa Abstergo Industries tem como esperado redução imediata de custos de armazenamento e infraestrutura, maior eficiencia operacional com sistemas gerenciados e automatizados, melhoria na experiência do cliente com acesso rápido e seguro ás informações, o que aumentaria a eficiencia e a produtividade da empresa. Recomenda-se a continuidade da utilizaÃ§Ã£o das ferramentas implementadas e a busca por novas tecnologias que possam melhorar ainda mais os processos da empresa.
 
 ## Anexos
