@@ -2,7 +2,7 @@
 
 Data: 21-02-2026
 Empresa: Abstergo Industries 
-ResponsÃ¡vel: Joana Dayse
+Responsavel: Joana Dayse
 
 ## Introdução
 Este relatorio apresenta o processo de implementação de ferramentas na empresa Abstergo Industries , realizado por Joana Dayse. O objetivo do projeto foi elencar 3 serviços AWS, com a finalidade de realizar diminuição de custos imediatos.
